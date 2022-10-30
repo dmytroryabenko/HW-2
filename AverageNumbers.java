@@ -4,7 +4,7 @@ public class AverageNumbers {
 
     public static void main(String[] args) {
 
-        double[] array = {10, 20, 35, 15};
+        double[] array = {10, 20, 35, 18};
 
         double sum = 0;
 
