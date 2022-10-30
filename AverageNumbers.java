@@ -4,11 +4,11 @@ public class AverageNumbers {
 
     public static void main(String[] args) {
 
-        double[] array = {10, 20, 35, 18};
+        int[] array = {10, 20, 35, 18};
 
         double sum = 0;
 
-        for (double i : array) {
+        for (int i : array) {
 
             sum += i;
         }
